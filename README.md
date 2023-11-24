@@ -1,5 +1,14 @@
-# wonderful-events
-This repository contains a website designed to help people plan their events better.
+# Wonderful Events :partying_face:
+This website was the final project of my Web Programming II course and was done within a group. It was a culmination of about 2 months work, where we combined our personal assignments and built a website that uses MVC (Model-View-Controller) architecture and CRUD operations to add, read, update and delete data from the website. It uses Docker to store information in the database. 
+
+*Objectives of this project*
+To build a transactional web application which demonstrates:
+- CRUD operations with MVC
+- MySQL database backing up the model
+- Using Handlebars to render views
+- Must include user login capability with associated authentication and sessions 
+
+This point of this website is to help people plan their events better. Be it through adding and editing the guests, music and meals designed for the party.
 
 It offers the user many options for planning their event:
 
